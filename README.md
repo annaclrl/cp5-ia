@@ -47,3 +47,6 @@ Jupyter Notebook ou Google Colab
 - Acesse o Google Colab
 - Faça upload do arquivo data.csv para a sessão
 - Execute todas as células sequencialmente
+  
+## Link do repositório:
+https://github.com/annaclrl/cp5-ia
